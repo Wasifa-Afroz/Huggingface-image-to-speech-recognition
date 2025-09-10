@@ -25,6 +25,3 @@ It can load an image (local or from a URL), generate a **natural language captio
 - [Pillow](https://pillow.readthedocs.io/) – image handling  
 - [Requests](https://requests.readthedocs.io/) – fetch images from the web  
 
----
-
-## 📂 Project Structure
